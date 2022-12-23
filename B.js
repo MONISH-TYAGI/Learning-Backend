@@ -1,2 +1,0 @@
-//AA
-console.log("B");
